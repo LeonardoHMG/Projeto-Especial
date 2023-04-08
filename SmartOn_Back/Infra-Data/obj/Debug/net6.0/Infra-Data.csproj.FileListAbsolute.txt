@@ -1,0 +1,51 @@
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\bin\Debug\net6.0\Infra-Data.deps.json
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\bin\Debug\net6.0\Infra-Data.runtimeconfig.json
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\bin\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\bin\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\bin\Debug\net6.0\Domain.dll
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.AssemblyReference.cache
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.AssemblyInfoInputs.cache
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.AssemblyInfo.cs
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.CoreCompileInputs.cache
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.CopyComplete
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\refint\Infra-Data.dll
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\Infra-Data.genruntimeconfig.cache
+C:\Cursos\Projetos\Projeto de férias\Infra-Data\obj\Debug\net6.0\ref\Infra-Data.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.deps.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.runtimeconfig.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Domain.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.AssemblyReference.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.AssemblyInfoInputs.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.AssemblyInfo.cs
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.CoreCompileInputs.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.CopyComplete
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\refint\Infra-Data.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.genruntimeconfig.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Infra-Data\obj\Debug\net6.0\ref\Infra-Data.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.deps.json
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.runtimeconfig.json
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Infra-Data.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\bin\Debug\net6.0\Domain.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.AssemblyReference.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.AssemblyInfoInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.AssemblyInfo.cs
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.CoreCompileInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.csproj.CopyComplete
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\refint\Infra-Data.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\Infra-Data.genruntimeconfig.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Infra-Data\obj\Debug\net6.0\ref\Infra-Data.dll

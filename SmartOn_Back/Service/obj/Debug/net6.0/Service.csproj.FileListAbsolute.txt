@@ -1,0 +1,51 @@
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Service.deps.json
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Service.dll
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Service.pdb
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Domain.dll
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\Projetos\Projeto de férias\Service\bin\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.dll
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\Service.pdb
+C:\Cursos\Projetos\Projeto de férias\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Service.deps.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Service.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Service.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Domain.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\bin\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\Service.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Service\obj\Debug\net6.0\ref\Service.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Service.deps.json
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Service.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Service.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Infra-Data.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Domain.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Service\bin\Debug\net6.0\Infra-Data.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\refint\Service.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\Service.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Service\obj\Debug\net6.0\ref\Service.dll

@@ -1,0 +1,39 @@
+<div mat-dialog-content>
+    <h1>Adicionar Funcionário</h1>
+    <form [formGroup]="FuncionarioForm">
+        <mat-form-field appearance="outline">
+            <mat-label>Nome do Funcionário</mat-label>
+            <input formControlName="name" matInput placeholder="Nome" />
+        </mat-form-field>
+
+        <mat-form-field appearance="outline">
+            <mat-label>Telefone</mat-label>
+            <input formControlName="cellPhone" matInput placeholder="Telefone" mask="(00) 00000-0000" prefix="+55" />
+        </mat-form-field>
+
+        <mat-form-field appearance="outline">
+            <mat-label>Endereço</mat-label>
+            <input formControlName="address" matInput placeholder="Endereço" />
+        </mat-form-field>
+
+        <mat-form-field appearance="outline">
+            <mat-label>Salário</mat-label>
+            <input formControlName="wage" matInput placeholder="Salário" maxlength="6"/>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill">
+            <mat-label>Departamento Empresarial</mat-label>
+            <mat-select name="food" formControlName="idDepartament">
+              <mat-option *ngFor="let dep of departaments" [value]="dep.name">
+                {{ dep.name }}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+
+        <div mat-dialog-action [align]="'end'">
+            <button mat-raised-button color="warn" mat-dialog-close>Fechar</button>
+            <button style="margin-left: 8px" mat-raised-button color="primary" (click)="AddFuncionario()">{{actionBtn}}
+            </button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,198 @@
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\appsettings.json
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Application.exe
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Application.deps.json
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Application.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Application.pdb
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\AutoMapper.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Humanizer.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Domain.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Service.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Service.pdb
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\scopedcss\bundle\Application.styles.css
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.dll
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.pdb
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Cursos\Projetos\Projeto de férias\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Cursos\Projetos\Projeto de férias\Application\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\appsettings.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Application.exe
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Application.deps.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Application.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Application.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\AutoMapper.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Humanizer.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Domain.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Infra-Data.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Service.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Domain.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Service.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\bin\Debug\net6.0\Infra-Data.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\scopedcss\bundle\Application.styles.css
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.pdb
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Cursos\Projetos\SmartON\SmartOn_Back\Application\obj\Debug\net6.0\ref\Application.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\appsettings.Development.json
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\appsettings.json
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Application.exe
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Application.deps.json
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Application.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Application.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\AutoMapper.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Humanizer.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Infra-Data.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Service.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Domain.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Service.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Application\bin\Debug\net6.0\Infra-Data.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\scopedcss\bundle\Application.styles.css
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\refint\Application.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Application\obj\Debug\net6.0\ref\Application.dll
